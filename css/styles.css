@@ -1229,7 +1229,7 @@ img#nu-logo {
     margin: 0 auto;
 }
 
-@media screen and (max-width: 768px) {
+/*@media screen and (max-width: 768px) {
     .skills-bar-container {
         width: 100%;
         min-width: 100px;
