@@ -1136,13 +1136,13 @@ a.fa.fa-angle-down:focus {
 
 .skills-section .skill-icon {
     padding-bottom: 15px;
-    height: auto;
+    height: 120px;
 }
 
 @media screen and (max-width: 360px) {
     .skills-section .skill-icon {
         padding-bottom: 0;
-        height: auto;
+        height: 100px;
     }
 }
 
